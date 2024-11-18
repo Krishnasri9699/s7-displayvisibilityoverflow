@@ -1,0 +1,50 @@
+#mainheading
+{
+    color: azure;
+    background-color:black;
+    text-align:center;
+    font-size:4rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow:10px 10px 10px greenyellow;
+    box-shadow:10px 10px 10px blanchedalmond;
+    border:10px solid;
+    border-radius:20px;
+}
+#tirupati{
+    width:250px;
+    height:300px;
+    visibility: visible;
+}
+#srikalahasti{
+    width:250px;
+    height:300px;
+}
+#durgatemple{
+    width:250px;
+    height:300px;
+}
+#tirupatidesc{
+    display:inline-block;
+    width:800px;
+    height:500px;
+    overflow: auto;
+    text-align: justify;
+}
+#srikalahastidesc{
+    display:inline-block;
+    width:800px;
+    height:500px;
+    overflow: auto;
+    text-align: justify;
+}
+#durgatempledesc{
+    display:inline-block;
+    width:800px;
+    height:500px;
+    overflow: auto;
+    text-align: justify;
+}
+#srikalahastiheading{
+    text-align: right;
+    width: 1100px;
+}
